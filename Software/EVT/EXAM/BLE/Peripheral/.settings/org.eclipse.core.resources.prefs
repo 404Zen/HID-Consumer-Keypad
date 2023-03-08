@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//APP/battery.c=UTF-8
+encoding//APP/encoder.c=UTF-8
+encoding//APP/include/user_hid_task.h=UTF-8
+encoding//APP/usb_hid.c=UTF-8
+encoding//APP/user_hid_task.c=UTF-8
+encoding//APP/user_task.c=UTF-8
+encoding//APP/ws2812.c=UTF-8
+encoding//StdPeriphDriver/inc/CH583SFR.h=UTF-8
